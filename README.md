@@ -15,6 +15,12 @@ The Flower Sort algorithm works as follows:
 
 The algorithm continues dividing, sorting, and merging until the entire list is sorted.
 
+## Performance Analysis:
+
+The "Flower Sort" algorithm has a time complexity of O(n log n) on average and in the worst case, similar to merge sort. This makes it an efficient algorithm for sorting large input sizes.
+
+As for comparisons with other well-known sorting algorithms, the "Flower Sort" algorithm shares similarities with merge sort in terms of its divide-and-conquer approach and time complexity. However, it differs in terms of naming and potentially in implementation details, which could affect factors such as space complexity and performance optimizations.
+
 ## Implementation
 
 The provided implementation is in Python.
